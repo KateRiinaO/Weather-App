@@ -1,0 +1,43 @@
+.container {
+  width: 50%;
+  min-width: 500px;
+  margin: 30px auto;
+  border: 1px solid;
+  display: block;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: darkgray;
+}
+
+.form-control:hover {
+  background-color: aquamarine;
+}
+
+#date-time {
+  text-align: right;
+  font-style: italic;
+}
+
+#show-celsius {
+  color: darkgrey;
+  text-decoration: none;
+}
+#show-celsius:hover {
+  text-decoration: underline;
+  color: palevioletred;
+}
+
+.col-5 {
+  text-align: left;
+}
+.coder {
+  font-size: xx-small;
+}
+/*here is CSS for images*/
+.col-4 {
+  font-size: 150px;
+  text-align: right;
+}
+.day-emoji {
+  font-size: 40px;
+}
