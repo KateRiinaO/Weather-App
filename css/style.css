@@ -6,11 +6,11 @@
   display: block;
   text-align: center;
   font-family: "Roboto", sans-serif;
-  color: darkgray;
+  color: gray;
 }
 
 .form-control:hover {
-  background-color: aquamarine;
+  background-color: #8d6dd3;
 }
 
 #date-time {
@@ -21,10 +21,6 @@
 #show-celsius {
   color: darkgrey;
   text-decoration: none;
-}
-#show-celsius:hover {
-  text-decoration: underline;
-  color: palevioletred;
 }
 
 .col-5 {
